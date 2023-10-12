@@ -1,0 +1,51 @@
+{
+	"folders": [
+		{
+			"path": "../../c++"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../java"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"algorithm": "cpp",
+			"*.tcc": "cpp",
+			"cmath": "cpp",
+			"cstdarg": "cpp",
+			"cstddef": "cpp",
+			"cstdio": "cpp",
+			"cstdlib": "cpp",
+			"cwchar": "cpp",
+			"cwctype": "cpp",
+			"deque": "cpp",
+			"exception": "cpp",
+			"memory": "cpp",
+			"functional": "cpp",
+			"iterator": "cpp",
+			"numeric": "cpp",
+			"random": "cpp",
+			"fstream": "cpp",
+			"iosfwd": "cpp",
+			"iostream": "cpp",
+			"istream": "cpp",
+			"limits": "cpp",
+			"new": "cpp",
+			"ostream": "cpp",
+			"sstream": "cpp",
+			"streambuf": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"typeinfo": "cpp",
+			"utility": "cpp",
+			"vector": "cpp"
+		},
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
