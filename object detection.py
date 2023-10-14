@@ -6,7 +6,7 @@ import math
 i=cv2.VideoCapture(0)
 i.set(3,1280)
 i.set(4,720)
-model=YOLO("yolo weights/yolov8l.pt")
+model=YOLO("yolo weights/yolov8x.pt")
 
 classNames = ["person", "bicycle", "car", "motorbike", "aeroplane", "bus", "train", "truck", "boat",
              "traffic light", "fire hydrant", "stop sign", "parking meter", "bench", "bird", "cat",
